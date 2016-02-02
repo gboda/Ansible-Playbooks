@@ -1,4 +1,4 @@
 # Ansible-Playbooks
-Ansible playbooks for AWS and Azure
+Ansible playbooks for AWS, Azure and Vagrant
 
-Collection of scripts for launching, monitoring and managing EC2 and Azure Compute VMs. 
+Collection of scripts for launching, monitoring and managing webfleets. 
